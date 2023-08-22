@@ -1,0 +1,15 @@
+C:\Users\ahmed\OneDrive\Desktop\Eaton\EatonProject\EatonProject\bin\Debug\net6.0\EatonProject.exe
+C:\Users\ahmed\OneDrive\Desktop\Eaton\EatonProject\EatonProject\bin\Debug\net6.0\EatonProject.deps.json
+C:\Users\ahmed\OneDrive\Desktop\Eaton\EatonProject\EatonProject\bin\Debug\net6.0\EatonProject.runtimeconfig.json
+C:\Users\ahmed\OneDrive\Desktop\Eaton\EatonProject\EatonProject\bin\Debug\net6.0\EatonProject.dll
+C:\Users\ahmed\OneDrive\Desktop\Eaton\EatonProject\EatonProject\bin\Debug\net6.0\EatonProject.pdb
+C:\Users\ahmed\OneDrive\Desktop\Eaton\EatonProject\EatonProject\obj\Debug\net6.0\EatonProject.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Desktop\Eaton\EatonProject\EatonProject\obj\Debug\net6.0\EatonProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\OneDrive\Desktop\Eaton\EatonProject\EatonProject\obj\Debug\net6.0\EatonProject.AssemblyInfoInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Eaton\EatonProject\EatonProject\obj\Debug\net6.0\EatonProject.AssemblyInfo.cs
+C:\Users\ahmed\OneDrive\Desktop\Eaton\EatonProject\EatonProject\obj\Debug\net6.0\EatonProject.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Eaton\EatonProject\EatonProject\obj\Debug\net6.0\EatonProject.dll
+C:\Users\ahmed\OneDrive\Desktop\Eaton\EatonProject\EatonProject\obj\Debug\net6.0\refint\EatonProject.dll
+C:\Users\ahmed\OneDrive\Desktop\Eaton\EatonProject\EatonProject\obj\Debug\net6.0\EatonProject.pdb
+C:\Users\ahmed\OneDrive\Desktop\Eaton\EatonProject\EatonProject\obj\Debug\net6.0\EatonProject.genruntimeconfig.cache
+C:\Users\ahmed\OneDrive\Desktop\Eaton\EatonProject\EatonProject\obj\Debug\net6.0\ref\EatonProject.dll
