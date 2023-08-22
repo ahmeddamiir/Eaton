@@ -31,7 +31,7 @@ I have monitor devices which are sending me data and I need to **compute the num
 ## Solution Description
 
 The index is named *Program.cs*. I created a monitor class to concatenate the properties of each monitor (Name & Measurements), I expected that each measurement would be an integer hence I created measurements as a list of integers to have elasticity in size. I will prompt the user for the number of monitors and also the measurements of each monitor then I will count the number of each measurement and print it to the standard output.
-
+Having said that; If the user didn't co-operate with the correct insertion of the number of monitors he has, The program will quit and he'll have to rerun it again. For prompting him again and again until he co-operates, This needs a while loop but I didn't prefer to add it as this resolution is more logical to me.
 ## Conclusion
 
 The time complexity of this solution is to the big O of N^2 since there's a nested loop for the measurements fulfillment. 
